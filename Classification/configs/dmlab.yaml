@@ -1,0 +1,5 @@
+name: dmlab
+class_num: 6
+scale: 10
+xavier_init: False
+best: 0.5

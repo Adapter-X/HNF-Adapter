@@ -1,0 +1,5 @@
+name: kitti
+class_num: 4
+scale: 10
+xavier_init: True
+best: 0.75

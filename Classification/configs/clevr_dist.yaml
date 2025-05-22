@@ -1,0 +1,5 @@
+name: clevr_dist
+class_num: 6
+scale: 0.1
+xavier_init: True
+best: 0.65

@@ -1,0 +1,5 @@
+name: sun397
+class_num: 397
+scale: 0.1
+xavier_init: False
+best: 0.5

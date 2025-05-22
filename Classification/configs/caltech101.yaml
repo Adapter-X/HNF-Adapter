@@ -1,0 +1,5 @@
+name: caltech101
+class_num: 102
+scale: 1
+xavier_init: False
+best: 0.9

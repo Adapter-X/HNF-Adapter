@@ -1,0 +1,5 @@
+name: svhn
+class_num: 10
+scale: 100
+xavier_init: True
+best: 0.9

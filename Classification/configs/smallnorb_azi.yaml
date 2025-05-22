@@ -1,0 +1,5 @@
+name: smallnorb_azi
+class_num: 18
+scale: 100
+xavier_init: True
+best: 0.34

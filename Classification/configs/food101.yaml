@@ -1,0 +1,4 @@
+name: food101
+class_num: 101
+scale: 1
+xavier_init: False
