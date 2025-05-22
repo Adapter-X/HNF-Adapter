@@ -1,3 +1,3 @@
 # HNF-Adapter
  
-https://github.com/Adapter-X/HNF-Adapter/tree/main/Classification
+https://github.com/Adapter-X/HNF-Adapter/blob/main/Classification/vtab.py
