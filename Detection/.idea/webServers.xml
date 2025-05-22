@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="12745349-0fa7-4e54-8176-79ae637689b4" name="Detection4070">
+        <fileTransfer rootFolder="/media/dl_shouan/ZHITAI/Detection_Adapter" accessType="SFTP" host="192.168.137.95" port="22" sshConfigId="bdb704f2-4744-449d-af7e-5e29b7b1096f" sshConfig="4070/3060">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6c7eeea4-d357-43ac-b9e8-02927185c6e8" name="new_1080">
+        <fileTransfer rootFolder="/media/dl/ZHITAI/Detection" accessType="SFTP" host="192.168.137.79" port="22" sshConfigId="16fc9c3a-6951-4183-ac5d-f9c4510625d2" sshConfig="1080/gp100">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
